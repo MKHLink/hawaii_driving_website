@@ -3,10 +3,10 @@ import {Col,Row, Card} from 'antd';
 
 function DirverPackages(){
     return(
-        <div style={{textDecoration:'underline'}}>
+        <div>
         <Row>
         <Col  xs={24} xl={6}>
-        <Card title="License Ready Package"  bordered={false}>
+        <Card title={<span style={{fontSize: 'xx-large'}}>License Ready Package</span>}  bordered={false}>
           <p className='driverCards'>
             5 Driving Lessons (45m each)<br/>
             Pick Up And Drop Off<br/>
@@ -16,11 +16,14 @@ function DirverPackages(){
             <span style={{color: 'orange'}}>Original Price : $285/You Save $10</span><br/>
             <span>Payment Plan Available</span>
           </p>
+          <br/>
+          <br/>
+          <br/>
         </Card>
         
         </Col>
         <Col  xs={24} xl={6}>
-        <Card title="Experience Package" bordered={false}>
+        <Card title={<span style={{fontSize: 'xx-large'}}>Experience Package</span>} bordered={false}>
         <p className='driverCards'>
             5 Driving Lessons (60m each)<br/>
             Collections And Returns<br/>
@@ -36,7 +39,7 @@ function DirverPackages(){
         
         </Col>
         <Col  xs={24} xl={6}>
-        <Card title="New Driver Package" bordered={false}>
+        <Card title={<span style={{fontSize: 'xx-large'}}>New Driver Package</span>} bordered={false}>
         <p className='driverCards'>
             10 Driving Lessons (45m each)<br/>
             Pick Up And Drop Off<br/>
@@ -47,11 +50,13 @@ function DirverPackages(){
             <span style={{color: 'orange'}}>Original Price : $480/You Save $20</span><br/>
             <span>Payment Plan Available</span>
           </p>
+          <br/>
+          <br/>
         </Card>
         </Col>
         
         <Col  xs={24} xl={6}>
-        <Card title="Professional Package" bordered={false}>
+        <Card title={<span style={{fontSize: 'xx-large'}}>Professional Package</span>} bordered={false}>
         <p className='driverCards'>
             10 Driving Lessons (60m each)<br/>
             Pick Up And Drop Off<br/>
