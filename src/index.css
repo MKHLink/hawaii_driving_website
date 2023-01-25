@@ -26,3 +26,19 @@ code {
   font-size: medium;
   text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
 }
+
+.aboutP{
+  text-align: center;
+  font-size: large;
+  color: hotpink;
+  font-weight: bold;
+  line-height: 1cm;
+}
+
+.about{
+  border-radius: 25px;
+  border: 3px solid #73AD21;
+  width: fit-content;
+  margin: auto;
+  padding: 10px;
+}
