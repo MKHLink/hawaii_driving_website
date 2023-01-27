@@ -1,5 +1,5 @@
 import './App.css';
-import {React, useState} from 'react'
+import {React, useState, useEffect} from 'react'
 import Header from './components/Header';
 import About from './components/About';
 import DirverPackages from './components/DriverPackages';
@@ -14,6 +14,10 @@ import { Button } from 'antd';
 function App() {
 
   const [extraSelected, setExtraSelected] = useState(false);
+
+  useEffect(()=>{
+    window.scrollTo(0,0)
+  },[extraSelected]);
 
   return (
     <div>
