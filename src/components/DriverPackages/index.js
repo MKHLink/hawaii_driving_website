@@ -14,8 +14,7 @@ function DirverPackages(){
             Professional Instructor for Exam <br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
             <span style={{color:'green', fontSize:50}}>$275</span><br/>
-            <span style={{color: 'orange'}}>Original Price : $285/You Save $10</span><br/>
-            <span>Payment Plan Available</span>
+            <span style={{color: 'orange'}}>Original Price : $300/You Save $25</span><br/>
           </p>
         </Card>
         
@@ -28,9 +27,8 @@ function DirverPackages(){
             Appointment And Driving Test Car<br/>
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
-            <span style={{color:'green', fontSize:50}}>$310</span><br/>
-            <span style={{color: 'orange'}}>Original Price : $325/You Save $15</span><br/>
-            <span>Payment Plan Available</span>
+            <span style={{color:'green', fontSize:50}}>$350</span><br/>
+            <span style={{color: 'orange'}}>Original Price : $375/You Save $25</span><br/>
           </p>
         </Card>
         
@@ -43,9 +41,8 @@ function DirverPackages(){
             Appointment And Driving Test Car<br/>
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
-            <span style={{color:'green', fontSize:50}}>$460</span><br/>
-            <span style={{color: 'orange'}}>Original Price : $480/You Save $20</span><br/>
-            <span>Payment Plan Available</span>
+            <span style={{color:'green', fontSize:50}}>$490</span><br/>
+            <span style={{color: 'orange'}}>Original Price : $550/You Save $60</span><br/>
           </p>
         </Card>
         </Col>
@@ -59,8 +56,7 @@ function DirverPackages(){
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
             <span style={{color:'green', fontSize:50}}>$575</span><br/>
-            <span style={{color: 'orange'}}>Original Price : $605/You Save $30</span><br/>
-            <span>Payment Plan Available</span>
+            <span style={{color: 'orange'}}>Original Price : $635/You Save $60</span><br/>
           </p>
         </Card>
         </Col>

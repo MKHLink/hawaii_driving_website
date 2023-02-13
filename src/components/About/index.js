@@ -10,10 +10,9 @@ function About(){
             <Row>
             <Col span={24}>
                 <p className="aboutP">
-                    Hawaii Driving Scool is a prestegious school
-                    located in Jackson Heights and Flushing. 
+                    Hawaii Driving Scool is a reliable training center, serving in Jackson Heights, Flushing and multiple Queens areas.
                     <br/>
-                    Together with us, you will go through one of the most advanced and intensive driving courses available in New York City.
+                    We guarantee you will receive one of the most advanced and intensive training in New York City.
                     
                 </p>
             </Col>

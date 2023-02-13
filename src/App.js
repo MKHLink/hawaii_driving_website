@@ -49,7 +49,7 @@ function App() {
       <div>
         <p className='notice'>
           The *5 Hours Pre-License* course costs
-          around $30 and is delivered online via Zoom by 
+          around $25 and is delivered online via Zoom by 
           a different provider who will notify you upon completition of the courses
         </p>
       </div>

@@ -8,21 +8,19 @@ body {
 
   background-image: url('./assets/GIF/background.jpg');
   background-size: cover;
+   background-position: center center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 
   height: 100vh;
   padding:0;
   margin:0;
 }
 
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
-
-.headerImg{
-  width: 100%;
-  height: 100px;
-  max-width: 100%;
 }
 
 
@@ -42,13 +40,14 @@ header {
   text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
 }
 
+
 .aboutP{
   text-align: center;
   font-size: x-large;
   color: rgb(239, 233, 222);
   font-weight: bold;
   line-height: 1cm;
-  text-shadow: 1px 1px 30px rgb(15, 14, 14), 0 0 1em rgb(23, 23, 24), 0 0 0.2em rgb(11, 11, 11);
+  text-shadow: 1px 1px 30px rgb(15, 14, 14), 0 0 1em rgb(23, 23, 24), 0 0 1em rgb(11, 11, 11);
 }
 
 .about{
@@ -76,10 +75,10 @@ header {
 .notice{
   text-align: center;
   font-size: medium;
-  color: rgb(232, 164, 36);
+  color: rgb(254, 162, 41);
   font-weight: bold;
   line-height: 1cm;
-  text-shadow: 1px 1px 30px rgb(15, 14, 14), 0 0 1em rgb(23, 23, 24), 0 0 0.2em rgb(11, 11, 11);
+  text-shadow: 0px 0px 10px rgb(164, 157, 157), 0 0 0.2em rgb(11, 11, 12), 0 0 0.1em rgb(0, 0, 0);
   margin-top: 70px;
 }
 
