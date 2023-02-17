@@ -6,7 +6,7 @@ import {Col, Row} from 'antd';
 function About(){
     
     return(
-        <div className='about'>
+        <main className='about'>
             <Row>
             <Col span={24}>
                 <p className="aboutP">
@@ -17,7 +17,7 @@ function About(){
                 </p>
             </Col>
             </Row>
-        </div>
+        </main>
     )
 }
 
