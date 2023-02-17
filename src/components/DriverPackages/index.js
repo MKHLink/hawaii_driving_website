@@ -6,7 +6,7 @@ function DirverPackages(){
         <div>
         <Row gutter={4}>
         <Col  xs={24} xl={6}style={{marginBottom:4}}>
-        <Card className='Card' title={<span style={{fontSize: 'x-large'}}>License Ready Package</span>}  bordered={false}>
+        <Card headStyle={{ backgroundColor: 'rgb(255, 0, 85)', color: '#ffffff' }} title={<span style={{fontSize: 'x-large'}}>License Ready Package</span>}  bordered={false}>
           <p className='driverCards'>
             5 Driving Lessons (45m each)<br/>
             Pick Up And Drop Off<br/>
@@ -14,13 +14,13 @@ function DirverPackages(){
             Professional Instructor for Exam <br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
             <span style={{color:'green', fontSize:50}}>$275</span><br/>
-            <span style={{color: 'orange'}}>Original Price : $300/You Save $25</span><br/>
+            <span style={{color: 'blue'}}>Original Price : $300/You Save $25</span><br/>
           </p>
         </Card>
         
         </Col>
         <Col  xs={24} xl={6} style={{marginBottom:4}}>
-        <Card title={<span style={{fontSize: 'x-large'}}>Experience Package</span>} bordered={false}>
+        <Card headStyle={{ backgroundColor: 'rgb(255, 0, 85)', color: '#ffffff' }} title={<span style={{fontSize: 'x-large'}}>Experience Package</span>} bordered={false}>
         <p className='driverCards'>
             5 Driving Lessons (60m each)<br/>
             Collections And Returns<br/>
@@ -28,13 +28,13 @@ function DirverPackages(){
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
             <span style={{color:'green', fontSize:50}}>$350</span><br/>
-            <span style={{color: 'orange'}}>Original Price : $375/You Save $25</span><br/>
+            <span style={{color: 'blue'}}>Original Price : $375/You Save $25</span><br/>
           </p>
         </Card>
         
         </Col>
         <Col  xs={24} xl={6} style={{marginBottom:4}}>
-        <Card title={<span style={{fontSize: 'x-large'}}>New Driver Package</span>} bordered={false}>
+        <Card headStyle={{ backgroundColor: 'rgb(255, 0, 85)', color: '#ffffff' }} title={<span style={{fontSize: 'x-large'}}>New Driver Package</span>} bordered={false}>
         <p className='driverCards'>
             10 Driving Lessons (45m each)<br/>
             Pick Up And Drop Off<br/>
@@ -42,13 +42,13 @@ function DirverPackages(){
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
             <span style={{color:'green', fontSize:50}}>$490</span><br/>
-            <span style={{color: 'orange'}}>Original Price : $550/You Save $60</span><br/>
+            <span style={{color: 'blue'}}>Original Price : $550/You Save $60</span><br/>
           </p>
         </Card>
         </Col>
         
         <Col  xs={24} xl={6} style={{marginBottom:4}}>
-        <Card title={<span style={{fontSize: 'x-large'}}>Professional Package</span>} bordered={false}>
+        <Card headStyle={{ backgroundColor: 'rgb(255, 0, 85)', color: '#ffffff' }} title={<span style={{fontSize: 'x-large'}}>Professional Package</span>} bordered={false}>
         <p className='driverCards'>
             10 Driving Lessons (60m each)<br/>
             Pick Up And Drop Off<br/>
@@ -56,7 +56,7 @@ function DirverPackages(){
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
             <span style={{color:'green', fontSize:50}}>$575</span><br/>
-            <span style={{color: 'orange'}}>Original Price : $635/You Save $60</span><br/>
+            <span style={{color: 'blue'}}>Original Price : $635/You Save $60</span><br/>
           </p>
         </Card>
         </Col>

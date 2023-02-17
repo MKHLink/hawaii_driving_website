@@ -1,6 +1,6 @@
 import React from 'react';
 import {Col, Row} from 'antd';
-import HeaderImg from '../../assets/GIF/header.jpg';
+
 
 
 function Header(){
@@ -9,7 +9,7 @@ function Header(){
             <Row>
                 <Col span={24}>
                     <div >
-                        <h1>Hawaii Driving School</h1>
+                        <h1 style={{fontSize:60,fontWeight:900,fontFamily:'Arial'}}>HAWAII DRIVING SCHOOL</h1>
                         
                     </div>
                 </Col>

@@ -1,5 +1,5 @@
 import './App.css';
-import {React, useState, useEffect} from 'react'
+import {React} from 'react'
 import Header from './components/Header';
 import About from './components/About';
 import DirverPackages from './components/DriverPackages';
@@ -13,11 +13,7 @@ import { Button } from 'antd';
 
 function App() {
 
-  const [extraSelected, setExtraSelected] = useState(false);
-
-  useEffect(()=>{
-    window.scrollTo(0,0)
-  },[extraSelected]);
+  
 
   return (
     <div>
@@ -25,27 +21,14 @@ function App() {
       <About></About>
       <div className='homeBtns'>
       <Button style={{marginRight: '10px'}}type="primary" shape="round" size={'large'}>
-          <a href='tel: +1 (718) 307-9717'>Call Us</a>
+          <a href='tel: +1 (718) 307-9717'>(718) 307-9717</a>
       </Button>
       </div>
-      {!extraSelected?(
-        <>
-          <DirverPackages></DirverPackages>
-        </>
-      ):extraSelected?(
-        <>
-          <ExtraPackages></ExtraPackages>
-        </>
-      ):(
-        <></>
-      )}
-
-      <div className='homeBtns'>
-      <Button style={{marginRight: '10px'}}type="primary" shape="round" size={'large'} onClick={()=>{{!extraSelected?(setExtraSelected(true)):(setExtraSelected(false))}}}>
-          See More
-      </Button>
-      </div>
-
+      <h2 className = 'headlines'>Driver Packages</h2>
+      <DirverPackages></DirverPackages>
+      <h2 className = 'headlines'>Extra Packages</h2>
+      <ExtraPackages></ExtraPackages>
+      
       <div>
         <p className='notice'>
           The *5 Hours Pre-License* course costs
@@ -60,3 +43,4 @@ function App() {
 }
 
 export default App;
+
