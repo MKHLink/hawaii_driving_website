@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hawaii_driving_website/static/css/main.1a9e40ea.css",
-    "main.js": "/hawaii_driving_website/static/js/main.f41bde04.js",
+    "main.js": "/hawaii_driving_website/static/js/main.ce9df694.js",
     "static/js/787.9ad753c7.chunk.js": "/hawaii_driving_website/static/js/787.9ad753c7.chunk.js",
     "index.html": "/hawaii_driving_website/index.html",
     "main.1a9e40ea.css.map": "/hawaii_driving_website/static/css/main.1a9e40ea.css.map",
-    "main.f41bde04.js.map": "/hawaii_driving_website/static/js/main.f41bde04.js.map",
+    "main.ce9df694.js.map": "/hawaii_driving_website/static/js/main.ce9df694.js.map",
     "787.9ad753c7.chunk.js.map": "/hawaii_driving_website/static/js/787.9ad753c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a9e40ea.css",
-    "static/js/main.f41bde04.js"
+    "static/js/main.ce9df694.js"
   ]
 }
