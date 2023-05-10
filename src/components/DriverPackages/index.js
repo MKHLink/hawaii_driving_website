@@ -28,7 +28,7 @@ function DirverPackages(){
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
             <span style={{color:'green', fontSize:50}}>$315</span><br/>
-            <span style={{color: 'blue'}}>Original Price : $475/You Save $160</span><br/>
+            <span style={{color: 'blue'}}>Original Price : $375/You Save $60</span><br/>
           </p>
         </Card>
         
@@ -42,7 +42,7 @@ function DirverPackages(){
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
             <span style={{color:'green', fontSize:50}}>$370</span><br/>
-            <span style={{color: 'blue'}}>Original Price : $490/You Save $120</span><br/>
+            <span style={{color: 'blue'}}>Original Price : $430/You Save $60</span><br/>
           </p>
         </Card>
         </Col>
