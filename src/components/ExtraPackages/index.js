@@ -8,7 +8,7 @@ function ExtraPackages(){
         <Col  xs={24} xl={8} style={{marginBottom:4}}>
         <Card headStyle={{ backgroundColor: 'rgb(255, 0, 85)', color: '#ffffff' }} title={<span style={{fontSize: 'x-large'}}>One Time Lesson</span>}  bordered={false}>
           <p className='driverCards'>
-            Single Driving Lesson (90 minutes)<br/>
+            Single Driving Lesson (70 minutes)<br/>
             Pick Up And Drop Off<br/>
             Class Behind The Wheel<br/>
             <span style={{color:'green', fontSize:50}}>$70</span>
@@ -33,7 +33,7 @@ function ExtraPackages(){
             Car Provided for Exam <br/>
             Pick Up And Drop Off<br/>
             Necessary Materials for the Exam<br/>
-            <span style={{color:'green', fontSize:50}}>$95</span>
+            <span style={{color:'green', fontSize:50}}>$85</span>
           </p> 
         </Card>
         </Col>

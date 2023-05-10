@@ -13,8 +13,8 @@ function DirverPackages(){
             Appointment And Driving Test Car<br/>
             Professional Instructor for Exam <br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
-            <span style={{color:'green', fontSize:50}}>$275</span><br/>
-            <span style={{color: 'blue'}}>Original Price : $300/You Save $25</span><br/>
+            <span style={{color:'green', fontSize:50}}>$225</span><br/>
+            <span style={{color: 'blue'}}>Original Price : $300/You Save $75</span><br/>
           </p>
         </Card>
         
@@ -27,8 +27,8 @@ function DirverPackages(){
             Appointment And Driving Test Car<br/>
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
-            <span style={{color:'green', fontSize:50}}>$350</span><br/>
-            <span style={{color: 'blue'}}>Original Price : $375/You Save $25</span><br/>
+            <span style={{color:'green', fontSize:50}}>$315</span><br/>
+            <span style={{color: 'blue'}}>Original Price : $475/You Save $160</span><br/>
           </p>
         </Card>
         
@@ -41,8 +41,8 @@ function DirverPackages(){
             Appointment And Driving Test Car<br/>
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
-            <span style={{color:'green', fontSize:50}}>$490</span><br/>
-            <span style={{color: 'blue'}}>Original Price : $550/You Save $60</span><br/>
+            <span style={{color:'green', fontSize:50}}>$370</span><br/>
+            <span style={{color: 'blue'}}>Original Price : $490/You Save $120</span><br/>
           </p>
         </Card>
         </Col>
@@ -55,8 +55,8 @@ function DirverPackages(){
             Appointment And Driving Test Car<br/>
             Instructor For Exam<br/>
             <span style={{color:'red'}}>Limited Time Offer :</span><br/>
-            <span style={{color:'green', fontSize:50}}>$575</span><br/>
-            <span style={{color: 'blue'}}>Original Price : $635/You Save $60</span><br/>
+            <span style={{color:'green', fontSize:50}}>$540</span><br/>
+            <span style={{color: 'blue'}}>Original Price : $635/You Save $95</span><br/>
           </p>
         </Card>
         </Col>
